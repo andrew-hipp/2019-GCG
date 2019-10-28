@@ -1,0 +1,17 @@
+q()
+ls()
+tree
+ls()
+state_desc
+ls(patt = 'trait')
+ls(patt = trait)
+ls(patt = "trait")
+ls(patt = "math")
+ls(patt = math)
+dat_range_n
+dat_range_01
+dat_range_01[AbstractHomologousDiscreteCharacterData]
+AbstractHomologousDiscreteCharacterData
+treeTrace
+tree
+q()
